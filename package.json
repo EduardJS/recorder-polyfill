@@ -1,6 +1,6 @@
 {
   "name": "recorder-polyfill",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple cross platform audio recorder polyfill based on audio-recorder-polyfill",
   "main": "index.js",
   "author": "Edi Duluman <edi@duluman.ro>",
