@@ -1,0 +1,16 @@
+{
+  "name": "recorder-polyfill",
+  "version": "1.0.1",
+  "description": "Simple cross platform audio recorder polyfill based on audio-recorder-polyfill",
+  "main": "index.js",
+  "author": "Edi Duluman <edi@duluman.ro>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardjs/recorder-polyfill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eduardjs/recorder-polyfill/issues"
+  },
+  "homepage": "https://github.com/eduardjs/recorder-polyfill#readme"
+}
